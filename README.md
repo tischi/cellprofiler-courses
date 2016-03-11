@@ -4,5 +4,6 @@
 
 Please install CellProfiler-2.1.1 on your computer from this web-site: http://cellprofiler.org/download.html
 
-## Data
+## Material
 
+Please downnload via this link: https://github.com/tischi/CellProfilerCourses/archive/master.zip
