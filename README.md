@@ -1,4 +1,4 @@
-# cellprofiler-courses
+# Cellprofiler workshop
 
 This repository contains teaching material for the CellProfiler image analysis software.
 
@@ -9,5 +9,3 @@ This repository contains teaching material for the CellProfiler image analysis s
   - Win: http://d1zymp9ayga15t.cloudfront.net/releases/2.2.0/CellProfiler-2.2.0.exe
   - Note: This is on purpose not the latest version of CellProfiler!
 - Please download the course material: https://github.com/tischi/cellprofiler-courses/archive/master.zip
-- Follow instructions in __Practical_CellProfiler2.1.1.ppt__, which is part of the downloaded material.
-- If you have questions please e-mail: tischitischer@gmail.com
